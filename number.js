@@ -25,3 +25,4 @@ for(count=0; count<10; count++){
             alert("Bravo, tu as gagné en " + count + " coups ! Veux-tu rejouer une partie ?");
         }
 }
+// Chercher une solutiont pour relancer une partie. 
